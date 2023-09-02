@@ -6,7 +6,7 @@
     <img alt="linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/Katongole Isaac-blue.svg?logo=linkedin"/>
   </a>
   <a href="https://www.freecodecamp.org/katsisaac50">
-    <img alt="youtube channel" title="Youtube" src="https://custom-icon-badges.demolab.com/badge/@slydragonn-red.svg?logo=freecodecamp&logoColor=white"/>
+    <img alt="youtube channel" title="Youtube" src="https://custom-icon-badges.demolab.com/badge/slydragonn-black.svg?logo=freecodecamp"/>
   </a>
   <a href="https://dev.to/slydragonn">
     <img alt="dev community" title="DEV" src="https://custom-icon-badges.demolab.com/badge/slydragonn-black.svg?logo=devdotto"/>
