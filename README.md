@@ -1,3 +1,6 @@
+<h2>
+  About me
+</h2>
 <p>
   <a href="https://www.codewars.com/users/katsisaac50">
     <img alt="codewars portfolio" title="CodeWars" src="https://www.codewars.com/users/katsisaac50/badges/micro"/>
