@@ -1,6 +1,7 @@
 <h2>
   About me
 </h2>
+<p>Am a full stack web developer with the following skills:- javascript, reactjs, mongodb, html , git and css, interested in learning new tech. Beside coding I also enjoy playing football and table tennis.</p>
 <p>
   <a href="https://www.codewars.com/users/katsisaac50">
     <img alt="codewars portfolio" title="CodeWars" src="https://www.codewars.com/users/katsisaac50/badges/micro"/>
