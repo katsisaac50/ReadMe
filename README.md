@@ -33,8 +33,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katsisaac50&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsisaac50&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -54,4 +54,4 @@
 <a href="mailto:katsisaac50@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-katsisaac50@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [katsisaac50](https://github.com/katsisaac50)
